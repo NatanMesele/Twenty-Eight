@@ -1,2 +1,2 @@
 
-This are the HTML codes we used to design out webpage feel free to check them out 
+This are the HTML codes we used to design our webpage feel free to check them out 
